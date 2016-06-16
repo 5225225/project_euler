@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 POW = 5
 
 pows = {}

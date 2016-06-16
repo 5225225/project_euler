@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import util
 
 for index, item in enumerate(util.fib(), start=1):
