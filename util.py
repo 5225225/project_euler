@@ -27,5 +27,6 @@ def factors(x):
             factors.append(x)
             return factors
 
+
 def is_palindrome(x):
     return str(x) == str(x)[::-1]
